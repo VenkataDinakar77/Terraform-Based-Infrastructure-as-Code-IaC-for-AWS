@@ -44,7 +44,7 @@ This project demonstrates how to manage AWS infrastructure using code, not the c
 
 ## Architectural Diagram
 
-![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/VenkataDinakar77/Terraform-Based-Infrastructure-as-Code-IaC-for-AWS/blob/ca76df529faa8f28ca2bbbdc733b20d7eeeea8c2/Architecture.png)
 
 
 ## Project Workflow
@@ -110,5 +110,5 @@ This modular structure improves maintainability, reusability, and organization.
 
 - [@LinkedIn](https://www.linkedin.com/in/venkata-dinakar77)
 - [@GithHub](https://github.com/VenkataDinakar77?tab=repositories)
-- Email Id: dinakar.kunduru0414@gmail.com
+- Email ID: dinakar.kunduru0414@gmail.com
 
